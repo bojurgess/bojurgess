@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/04064343-9b1c-4901-9a71-e052b1f52d64.svg?style=for-the-badge)](https://wakatime.com/@04064343-9b1c-4901-9a71-e052b1f52d64)
+[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&color=yellow&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23319%26project%3D%26in%3D0)](https://codetime.dev)
 
 <!--
 **bojurgess/bojurgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
