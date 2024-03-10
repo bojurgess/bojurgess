@@ -1,6 +1,4 @@
 [![wakatime](https://wakatime.com/badge/user/04064343-9b1c-4901-9a71-e052b1f52d64.svg?style=for-the-badge)](https://wakatime.com/@04064343-9b1c-4901-9a71-e052b1f52d64)
-![wakatime](https://img.shields.io/endpoint?url=https%3A%2F%2Ftime.beno.lol%2Fapi%2Fcompat%2Fshields%2Fv1%2Fbojurgess%2Finterval%3Aall_time&style=for-the-badge&logo=wakatime&label=Wakatime&color=%23ffd23d&link=https%3A%2F%2Ftime.beno.lol)
-
 <!--
 **bojurgess/bojurgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
